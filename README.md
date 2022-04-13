@@ -4,14 +4,17 @@ Desafio
 
 Módulo 3 Desenho de Arquiteturas de Dados Escaláveis
 
-Objetivos
+Objetivos:
+
 Exercitar os seguintes conceitos trabalhados no Módulo:
+
 ✓ Kubernetes.
 ✓ Pipelines de Dados.
 ✓ Orquestração.
 ✓ Processamento de Big Data.
 
-Enunciado
+Enunciado:
+
 Você é Engenheiro(a) de Dados em uma consultoria de soluções educacionais EDCenter,
 na área de Filosofia. A EDCenter está expandindo seu negócio para outras áreas do
 Brasil. A fonte de dados mais atualizada para entender o cenário atual da educação
